@@ -1,0 +1,42 @@
+[
+  {
+    "headline": "NVX announces multi-year cloud partnership with major hyperscaler (official press release)",
+    "source_tier": "OFFICIAL",
+    "published": "2026-10-14",
+    "outlet": "NVX IR",
+    "independent_sources": 2,
+    "tags": ["partnership", "official"]
+  },
+  {
+    "headline": "Exchange filing registers insider shares for December 30 lockup release",
+    "source_tier": "OFFICIAL",
+    "published": "2026-10-11",
+    "outlet": "HKEX filings",
+    "independent_sources": 3,
+    "tags": ["lockup"]
+  },
+  {
+    "headline": "Two newswires report regulator has opened inquiry into NVX data practices",
+    "source_tier": "TRUSTED_MEDIA",
+    "published": "2026-10-14",
+    "outlet": "wire A / wire B",
+    "independent_sources": 2,
+    "tags": ["regulatory"]
+  },
+  {
+    "headline": "Sell-side note raises NVX price target by 150%, citing revenue share model",
+    "source_tier": "TRUSTED_MEDIA",
+    "published": "2026-10-14",
+    "outlet": "bank research",
+    "independent_sources": 1,
+    "tags": ["analyst", "price-target"]
+  },
+  {
+    "headline": "Forum thread: 'NVX acquisition by mega-cap imminent, insider told me'",
+    "source_tier": "UGC",
+    "published": "2026-10-09",
+    "outlet": "anonymous forum",
+    "independent_sources": 1,
+    "tags": ["rumor"]
+  }
+]

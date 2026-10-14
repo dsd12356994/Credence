@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "credence"
+version = "0.1.0"
+description = "An Admiralty-grade information layer and behavior engine for the solo trader."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "dsd12356994" }]
+keywords = ["trading", "information-credibility", "risk-management", "retail-investing", "admiralty"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Financial and Insurance Industry",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Office/Business :: Financial :: Investment",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/dsd12356994/Credence"
+Protocol = "https://github.com/dsd12356994/Credence/blob/main/docs/PROTOCOL.md"
+
+[tool.setuptools.packages.find]
+include = ["credence*"]
